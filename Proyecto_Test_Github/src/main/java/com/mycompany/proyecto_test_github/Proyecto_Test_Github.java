@@ -14,5 +14,8 @@ public class Proyecto_Test_Github {
         System.out.println("Este proyecto es un proyecto de prueba para investigar cosillas con gitHub");
         System.out.println("Hola Gabri, Hola Marius");
         System.out.println("Marius ha entrado bien");
+        System.out.println("Prueba 1");
+        System.out.println("Prueba 2");
+        System.out.println("Prueba 3");
     }
 }
